@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main()
+{
+  /* if 语句
+    if (expression)
+        语句1;
+    else
+        语句2；
+
+    
+    if (expression)
+        语句1;
+    else if 
+        语句2；
+    else
+        语句3l
+
+
+   */
+  int age = 18;
+  if (age < 18)
+    printf("未成年\n");
+  
+  
+  
+  
+  return 0;
+}
